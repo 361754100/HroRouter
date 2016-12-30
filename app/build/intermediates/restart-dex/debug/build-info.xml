@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.1"
+    timestamp="859775887562936"
+    token="-8137033966986193423"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="180" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="24" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="D:\StudioProjects\HroRouter\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="855798837817533"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\StudioProjects\HroRouter\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="859775887562936"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\StudioProjects\HroRouter\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

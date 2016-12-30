@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HroRouter</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="myLocation_button">MLoc</string>
+    <string name="map_keywords">请输入目的地</string>
+    <string name="title_activity_settings">参数设置</string>
+    <string name="alarm_phone">联动号码：</string>
+    <string name="alarm_phone_hint">请输入联动号码</string>
+    <string name="alarm_dist">预警范围：</string>
+    <string name="alarm_dist_hint">请输入预警范围(单位：米)</string>
+    <string name="tim_account">云信帐号：</string>
+    <string name="tim_account_hint">请输入云信帐号</string>
+    <string name="settingSave">保存设置</string>
+    <string name="title_activity_map_settings">MapSettingsActivity</string>
+
+</resources>

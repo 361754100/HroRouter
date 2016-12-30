@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Tue Dec 27 15:40:24 CST 2016
+2.base=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\assets\\debug
+6.file=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\target.png
+2.set=ANDROID_RESOURCE
+4.base=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\assets\\debug
+7.file=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=10
+0.file=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\tracker_blue.png
+5.base=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ASSET
+6.base=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_settings.xml
+9.set=ASSET
+9.file=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\assets\\debug\\channel
+1.set=ANDROID_RESOURCE
+7.base=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_map_main.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\assets\\debug\\BaiduNaviSDK_Resource_3.2.0.png
+3.set=ASSET
+1.base=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\assets\\debug
+4.file=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\assets\\debug\\BaiduNaviSDK_3.2.0.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

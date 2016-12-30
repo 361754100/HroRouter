@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\HroRouter\app\libs\commons-lang3-3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="D:\StudioProjects\HroRouter\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-lang3-3.4_fbb295f833183b945c36c9a270c51a0cef8be353\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\HroRouter\app\libs\Sunflower.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4083a4f9ce52504595916209d87df4deeb9def6d">
+        <dex dex="D:\StudioProjects\HroRouter\app\build\intermediates\transforms\dex\debug\folders\1000\2\Sunflower_49800794757d7d0ace31c9d299046d47f68997ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\HroRouter\app\libs\mobilepb.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a5e62566e5023a4497edcb883324e82771c8c9fb">
+        <dex dex="D:\StudioProjects\HroRouter\app\build\intermediates\transforms\dex\debug\folders\1000\2\mobilepb_25997a7f441a2d46fc415aa252e270a9dd6490de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\HroRouter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b85ff0462e4d294e0d9abd05204a2470b1b20f90">
+        <dex dex="D:\StudioProjects\HroRouter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d4b3c52c117606bed51eea027b994c48a47b6c59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\StudioProjects\HroRouter\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_1962258ade3368bc95318bdce497a4e839210e3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\HroRouter\app\libs\qalsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="73bd5a49d7e47ef76409cc93814fcf3587f96ab3">
+        <dex dex="D:\StudioProjects\HroRouter\app\build\intermediates\transforms\dex\debug\folders\1000\2\qalsdk_b930f6ec0d87ebde94c85edd78336fc88aac034c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\HroRouter\app\libs\bugly_1.3.0_imsdk_release.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="21904f398a294a014c7a5611cb58d7eeb49e056b">
+        <dex dex="D:\StudioProjects\HroRouter\app\build\intermediates\transforms\dex\debug\folders\1000\2\bugly_1.3.0_imsdk_release_19e1bd332c2eeb4c91adbd2e4710d9d7f096fe60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\HroRouter\app\libs\imsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="703530c2a288280e30153eb8b0d4d5c5fad81830">
+        <dex dex="D:\StudioProjects\HroRouter\app\build\intermediates\transforms\dex\debug\folders\1000\2\imsdk_b99ed0198d3c0ebab069858ceab24a031d041f60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\HroRouter\app\libs\soload.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75fac6d5abe785d6658b93e008f7ef77b3fcfdc0">
+        <dex dex="D:\StudioProjects\HroRouter\app\build\intermediates\transforms\dex\debug\folders\1000\2\soload_419fcef6422b383c517594b92e7e88f325734dd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\HroRouter\app\libs\tls_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e8332413b5649cff9dac8658bebb94d7f419d878">
+        <dex dex="D:\StudioProjects\HroRouter\app\build\intermediates\transforms\dex\debug\folders\1000\2\tls_sdk_01832321f1b231ab4cd6379fbef9563e1a31211b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\HroRouter\app\libs\wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dd8fa9304e376adaf936c3db097240d2efcb116f">
+        <dex dex="D:\StudioProjects\HroRouter\app\build\intermediates\transforms\dex\debug\folders\1000\2\wup-1.0.0-SNAPSHOT_937e5888670cbf7a627824570e1b604aafe4e478\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\HroRouter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fd4f5ad42a32257b7bb54c9f36f76847bc8c087e">
+        <dex dex="D:\StudioProjects\HroRouter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b02138241dd14016a7170b568b2190a5bb523113\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\HroRouter\app\libs\fastjson-1.2.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="54bfdf73e7aabeed79c974f0956f037898bfa2c5">
+        <dex dex="D:\StudioProjects\HroRouter\app\build\intermediates\transforms\dex\debug\folders\1000\2\fastjson-1.2.11_fdcd61acc2a74837a1056cbac40e684a5fc42b91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\HroRouter\app\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cc7aac4dd41e7d6cbef648e891ee0866309ce9a4">
+        <dex dex="D:\StudioProjects\HroRouter\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_2a9c05fc9041608d111a99d40aa1caca1f57502f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\HroRouter\app\libs\httpmime-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="D:\StudioProjects\HroRouter\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.1.2_3b35665207909c44faa5d8117ba28c82730d5773\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\StudioProjects\HroRouter\app\libs\pushservice-5.5.0.50.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d447ee5b37c2109c0b5565cc79766901ff551a27">
+        <dex dex="D:\StudioProjects\HroRouter\app\build\intermediates\transforms\dex\debug\folders\1000\2\pushservice-5.5.0.50_55e3c808de3a8895ff4522e701d8a3608d7e2cbd\classes.dex" />
+    </item>
+
+</items>

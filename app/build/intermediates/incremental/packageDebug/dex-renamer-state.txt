@@ -1,0 +1,7 @@
+#Thu Dec 29 16:48:19 CST 2016
+base.0=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b02138241dd14016a7170b568b2190a5bb523113
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d4b3c52c117606bed51eea027b994c48a47b6c59\\classes.dex
+base.1=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d4b3c52c117606bed51eea027b994c48a47b6c59
+file.0=D\:\\StudioProjects\\HroRouter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b02138241dd14016a7170b568b2190a5bb523113\\classes.dex
